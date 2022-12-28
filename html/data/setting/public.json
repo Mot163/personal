@@ -5,7 +5,7 @@
         "adminEntrance": "admin",
         "_404ImageURL": "",
         "avatarImageURL": "",
-        "beian": "{\"icp\":\"蜀ICP备2022018364号-1\",\"police\":\"川公网安备 51012202001281号\"}",
+        "beian": "",
         "pageSize": "{\"home\":5,\"admin\":10}",
         "title": "{\"home\":\"沫の小站\",\"admin\":\"后台管理\",\"_404\":\"小笨蛋，页面跑偏啦～\"}",
         "user": "沫",
